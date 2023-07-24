@@ -53,8 +53,8 @@ body {
 .vacancy {
     position: absolute;
     font-family: Helvetica, sans-serif;
-    font-size: 25px;
-    top: 200px;
+    font-size: 20px;
+    top: 220px;
     left: 840px;
     text-align: left;
     margin-right: 50px;
@@ -67,7 +67,7 @@ span {
 .text {
     position: absolute;
     font-family: Helvetica, sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     top: 485px;
     left: 70px;
     text-align: left;
