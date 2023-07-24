@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --blue: #003cff;
+    --white: #ffffff;
+}
+
+body {
+    background-color: var(--white);
+}
+
+.container {
+    position: relative;
+}
+
+.shadow {
+    text-shadow: 2px 3px 5px grey;
+}
+
+.m {
+    position: absolute;
+    font-family: 'Caveat', cursive;
+    font-size: 400px;
+    font-weight: 100;
+    top: 10px;
+    left: 60px;
+    transform: scaleY(1.3);
+}
+
+.ak {
+    position: absolute;
+    font-family: 'Caveat', cursive;
+    font-size: 150px;
+    font-weight: 900;
+    top: 200px;
+    left: 370px;
+}
+
+.online {
+    position: absolute;
+    font-family: 'Anton', sans-serif;
+    font-size: 220px;
+    font-weight: 900;
+    top: 280px;
+    left: 370px;
+    transform: scaleY(1.2);
+}
+
+.vacancy {
+    position: absolute;
+    font-family: Helvetica, sans-serif;
+    font-size: 25px;
+    top: 200px;
+    left: 840px;
+    text-align: left;
+    margin-right: 50px;
+}
+
+span {
+    color: var(--blue);
+}
+
+.text {
+    position: absolute;
+    font-family: Helvetica, sans-serif;
+    font-size: 25px;
+    top: 485px;
+    left: 70px;
+    text-align: left;
+}
+
+.phone {
+    position: absolute;
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    top: 650px;
+    left: 65px;
+}
+
+.mail {
+    position: absolute;
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    top: 645px;
+    left: 730px;
+}
+
+.correct-mail-position {
+    position: absolute;
+    top: 16px;
+    left: -65px;
+}
