@@ -6,12 +6,12 @@
 
 :root {
     --blue: #003cff;
-    --white: #ffffff;
 }
 
 body {
     font-family: 'Comfortaa', sans-serif;
     font-weight: 900;
+    text-shadow: 2px 3px 5px grey;
 }
 
 .container {
@@ -20,10 +20,6 @@ body {
 
 span {
     color: var(--blue);
-}
-
-.shadow {
-    text-shadow: 2px 3px 5px grey;
 }
 
 .v {
@@ -75,7 +71,7 @@ span {
     font-size: 48px;
     font-weight: 900;
     top: 735px;
-    left: 150px;
+    left: 152px;
 }
 
 .mail {
@@ -83,7 +79,7 @@ span {
     font-size: 48px;
     font-weight: 900;
     top: 729px;
-    left: 670px;
+    left: 672px;
 }
 
 i {
@@ -99,5 +95,6 @@ i {
 .correct-mail-position {
     position: absolute;
     top: 0px;
-    left: -74px;
+    left: -68px;
+    transform: scaleX(0.8);
 }
