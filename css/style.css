@@ -70,12 +70,12 @@ span {
     left: 66px;
 }
 
-.stp {
+.contacts {
     position: absolute;
     font-size: 50px;
     font-weight: 900;
-    top: 490px;
-    left: 280px;
+    top: 530px;
+    left: 75px;
     text-align: center;
     margin-right: 50px;
 }
@@ -84,8 +84,8 @@ span {
     position: absolute;
     font-size: 34px;
     font-weight: 900;
-    top: 570px;
-    left: 70px;
+    top: 520px;
+    left: 423px;
 }
 
 .mail {
