@@ -67,23 +67,23 @@ span {
 .phone {
     position: absolute;
     font-family: 'Comfortaa', sans-serif;
-    font-size: 36px;
+    font-size: 34px;
     font-weight: 900;
-    top: 550px;
-    left: 60px;
+    top: 556px;
+    left: 70px;
 }
 
 .mail {
     position: absolute;
     font-family: 'Comfortaa', sans-serif;
-    font-size: 40px;
+    font-size: 38px;
     font-weight: 900;
-    top: 544px;
-    left: 490px;
+    top: 550px;
+    left: 473px;
 }
 
 .correct-mail-position {
     position: absolute;
     top: 4px;
-    left: -55px;
+    left: -50px;
 }
