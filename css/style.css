@@ -9,6 +9,7 @@
 }
 
 body {
+    background-color: #ffffff;
     font-family: 'Comfortaa', sans-serif;
     font-weight: 900;
     text-shadow: 2px 3px 5px grey;
@@ -25,17 +26,16 @@ span {
 .v {
     position: absolute;
     font-size: 500px;
-    font-weight: 900;
-    top: 35px;
+    top: 0px;
     left: 40px;
+    text-shadow: 5px 7px 5px grey;
 }
 
 .makeevka-online {
     position: absolute;
     font-size: 80px;
-    font-weight: 900;
-    top: 90px;
-    left: 420px;
+    top: 55px;
+    left: 382px;
     text-align: center;
     margin-right: 50px;
 }
@@ -43,47 +43,45 @@ span {
 .opened {
     position: absolute;
     font-size: 80px;
-    font-weight: 900;
-    top: 210px;
-    left: 610px;
+    top: 145px;
+    left: 757px;
     text-align: center;
     margin-right: 50px;
 }
 
 .vacancy {
     position: absolute;
-    font-size: 185px;
-    font-weight: 900;
-    top: 310px;
-    left: 390px;
+    font-size: 194px;
+    font-weight: 100;
+    top: 275px;
+    left: 374px;
 }
 
 .operator {
     position: absolute;
-    font-size: 194px;
-    font-weight: 900;
-    top: 500px;
-    left: 76px;
+    font-size: 195px;
+    top: 465px;
+    left: 77px;
+    text-shadow: 3px 5px 5px grey;
 }
 
 .phone {
     position: absolute;
     font-size: 48px;
-    font-weight: 900;
-    top: 735px;
-    left: 152px;
+    top: 720px;
+    left: 150px;
 }
 
 .mail {
     position: absolute;
     font-size: 48px;
-    font-weight: 900;
-    top: 729px;
-    left: 672px;
+    top: 714px;
+    left: 682px;
 }
 
 i {
     font-size: 60px;
+    text-shadow: 3px 5px 5px grey;
 }
 
 .correct-phone-position {
